@@ -1,0 +1,9 @@
+bbbb = invalid
+aaa = invalid
+baaabb = invalid
+aaabbb = invalid
+baaabb = invalid
+aaaab = invalid
+abbabb = invalid
+abb = valid
+aaaaabb = valid
